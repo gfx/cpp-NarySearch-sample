@@ -1,3 +1,12 @@
+/*
+    A sample code for N-ary search with OpenMP
+
+    To build and execute:
+    $ g++ -fopenmp -O3 nary-search.cpp && ./a.out
+
+ */
+
+
 #include <iostream>
 #include <vector>
 #include <boost/timer.hpp>
